@@ -1,2 +1,2 @@
-# hotel-flexbox
+# Hotel-flex-box
  
